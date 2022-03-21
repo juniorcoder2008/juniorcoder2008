@@ -8,5 +8,6 @@ Favorite languages: __Typescript & Python__
 
 ### Social Media
 Website: [JuniorCoderDE](https://juniorcoder.de) *(This website is made with Astro.)*
+
 Youtube: [JuniorCoder](https://www.youtube.com/channel/UCS19Yq0xKeFo4xVMc6ux1pA) (At the moment ther isn´t any content but soon I´ll create coding videos)
 
