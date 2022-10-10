@@ -8,5 +8,5 @@ I mainly program frontend apps, but I also know backend stuff. I've been program
 I use Windows 11 a my main OS but I also know Linux Mint, Kubuntu and Ubuntu. I love Bash, therefore I also love the new ```winget``` command in Windows 11!🤌👍
 
 ### Website
-Link: https://juniorcoder.de *(This website is made with React)*
+Link: https://juniorcoder.de
 
